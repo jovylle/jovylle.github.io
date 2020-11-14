@@ -10229,7 +10229,7 @@ body {
 }
 @media (min-width: 768px) {
   .masthead h1 {
-    font-size: 4rem;
+    font-size: 3rem;
     line-height: 4rem;
   }
 }
@@ -10239,7 +10239,7 @@ body {
     padding: 0;
   }
   .masthead h1 {
-    font-size: 6.5rem;
+    font-size: 3.5rem;
     line-height: 6.5rem;
     letter-spacing: 0.8rem;
   }
