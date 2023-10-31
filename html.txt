@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>asdasd</title>
+</head>
+<body style="text-align: center;">
+  <h1 class="maybesomecssclasstyles">WELCOME, you might be lost.</h1>
+  <main class="papadiv">
+    <a href="https://jovylle.com/">Click here to find your way</a>
+    <br />
+    <a href="https://quickchatgpt.netlify.app/">Wanna ask AI something real quick?</a>
+    <br />
+    <a href="https://www.google.com/">Or ask google.</a>
+  </main>
+</body>
+</html>
